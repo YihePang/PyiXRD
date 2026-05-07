@@ -12,3 +12,5 @@ https://huggingface.co/Yi-he/pyixrd/resolve/main/space_group.pth
 
 ### 3.Note:
 All .py files (patterns2xrd.py, mcnn.py, evaluation_index.py) and folders (XRD_patterns, model_pth, split_data) must be placed under the same directory path.
+
+![](https://komarev.com/ghpvc/?username=YihePang&abbreviated=true&label=Repository_visits:)
